@@ -1,0 +1,8 @@
+@import "@graw/ci/dist/colors.css";
+@import "@graw/ci/dist/fonts.css";
+
+.blue-box {
+  background-color: var(--ocean-blue);
+  width: 20px;
+  height: 20px;
+}

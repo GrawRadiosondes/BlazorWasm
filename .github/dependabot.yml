@@ -24,6 +24,6 @@ updates:
     assignees:
       - nikcani
     groups:
-      npm:
+      nuget:
         patterns:
           - "*"

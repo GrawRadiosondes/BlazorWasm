@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "@graw/ci": "^1.3.3"
+    "@graw/ci": "^1.4.2"
   },
   "devDependencies": {
-    "vite": "^6.2.7"
+    "vite": "^7.0.4"
   },
   "scripts": {
     "build": "cd wwwbase && vite build && cd .."

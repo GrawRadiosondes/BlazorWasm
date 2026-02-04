@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@graw/ci": "^1.4.7"
+    "@graw/ci": "^1.4.16"
   },
   "devDependencies": {
     "vite": "^7.3.1"
